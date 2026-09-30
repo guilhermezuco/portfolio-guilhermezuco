@@ -4,7 +4,7 @@ Meu portfólio pessoal, desenvolvido para apresentar um pouco sobre mim, meus pr
 
 ## 🌐 Acesse meu portfólio
 
-[Visite meu portfólio](https://portfolio-guilherme-three.vercel.app/)
+[Visite meu portfólio](https://portfolio-guilhermezuco.vercel.app/)
 
 ## 🚀 Sobre o projeto
 
